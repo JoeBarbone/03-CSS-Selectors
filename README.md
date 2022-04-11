@@ -21,7 +21,7 @@ The screenshot below shows the comments added to the css file.
 ![Screenshot of css code](assets/images/screenshot.jpg)
 
 Nothing to publish for this exercise.
-
+Changed
 ---
 
 
