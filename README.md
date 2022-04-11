@@ -14,6 +14,15 @@ Refer to the documentation:
 
 ---
 
+## Screenshots
+
+The screenshot below shows the comments added to the css file.
+
+![Screenshot of css code](assets/images/screenshot.jpg)
+
+---
+
+
 ## 🏆 Bonus
 
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
