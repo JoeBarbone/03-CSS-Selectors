@@ -1,5 +1,7 @@
 # 📐 Add Comments to Implementation of CSS Selectors
 
+## 03 - CSS Selectors Virtual Class #2
+
 Work with a partner to add comments that describe the functionality of the code found in [Unsolved](./Unsolved/assets/css/style.css).
 
 ## 📝 Notes
