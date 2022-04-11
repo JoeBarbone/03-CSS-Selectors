@@ -1,0 +1,37 @@
+/* TODO: Label selector type */
+/* This code is applying a specific font to the entire webpage */
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+/* TODO: Label selector type */
+/* This code is setting the background color of the webpage body to a specific color */
+body {
+  background-color: lemonchiffon;
+}
+
+header,
+footer {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  color: #f0ead6;
+  background-color: #191970;
+}
+
+figure {
+  width: 200px;
+  background-color: #f0ead6;
+}
+
+/* TODO: Label selector type */
+/* This code is a class that will bold the text of elements with this class */
+.highlighted-text {
+  font-weight: bolder;
+}
+
+/* TODO: Label selector type */
+/* This code will set the background color for an element with the specified ID, since it is an ID, it has to be unique and therefore will only be one ID */
+#contact-section {
+  background-color: #f0ead6;
+}
